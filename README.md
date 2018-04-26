@@ -1,4 +1,3 @@
-# Portfolio
 <h2 align="center">Hieu C. Chu</h2>
 <p align="center">
   Phone: (+61)416731359 ·  
