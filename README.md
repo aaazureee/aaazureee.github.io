@@ -1,4 +1,4 @@
-<h2 align="center">Hieu C. Chu</h2>
+<h2 align="center" class="name">Hieu C. Chu</h2>
 <p align="center">
   chc116@uowmail.edu.au |
   (+61) 416731359 |   
