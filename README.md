@@ -11,7 +11,7 @@
 - Built the front-end interface using Bootstrap CSS which supports Responsive Design.  
 - Wrote test cases for database operations using [MochaJS](https://mochajs.org/).  
 - Implemented authentication and authorization for staff account and student account.  
-- Deploy a production version which uses gzip compression and server-side caching of minified static assets (JS and CSS).  
+- Deployed a production version which uses gzip compression and server-side caching of minified static assets (JS and CSS).  
 
 [GitHub](https://github.com/aaazureee/uow-event) •
 [App](https://uow-event.herokuapp.com)
