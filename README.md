@@ -7,10 +7,10 @@
 
 ## Group Projects
 ### Event Booking System
-**A web application that simulates an event booking system for my university, using Node.js, Express and MongoDB**   
+**A web application that simulates an event booking system for my university, using Node.js, Express and MongoDB.**   
 - Built the front-end interface using Bootstrap CSS which supports Responsive Design.  
 - Wrote test cases for database operations using [MochaJS](https://mochajs.org/).  
-- Implemented authentication and authorization for staff account and student account.  
+- Implemented user authentication and authorization for staff account and student account.  
 - Deployed a production version which uses gzip compression and server-side caching of minified static assets (JS and CSS).  
 
 [GitHub](https://github.com/aaazureee/uow-event) •
