@@ -7,7 +7,7 @@
 
 ## Group Projects
 ### Event Booking System
-A web application that simulates an event booking system for my university (built as a group project assessment for CSIT214), using Node.js, Express and MongoDB. Staff accounts can create and manage events while student accounts are able to view upcoming events, book an event and proceed to checkout.
+**A web application that simulates an event booking system for my university** (built as a group project assessment for CSIT214), **using Node.js, Express and MongoDB**. Staff accounts can create and manage events while student accounts are able to view upcoming events, book an event and proceed to checkout.
 - Built the front-end interface using Bootstrap CSS which supports Responsive Design.  
 - Wrote test cases for database operations using [MochaJS](https://mochajs.org/).  
 - Implemented user authentication and authorization for staff account and student account.  
@@ -19,8 +19,7 @@ A web application that simulates an event booking system for my university (buil
   
 ## Personal Projects
 ### URL Shortener Microservice
-Enter your URL and get a shortened link that redirects to original page (use MongoDB to store randomly
-generated links) Functionally similar to [Google URL Shortener](https://goo.gl).  
+Enter your URL and get a shortened link that redirects to original page (use MongoDB to store randomly generated links). Functionally similar to [Google URL Shortener](https://goo.gl).  
 
 [GitHub](https://github.com/aaazureee/url-shortener) •
 [App](https://link-sh.herokuapp.com)
