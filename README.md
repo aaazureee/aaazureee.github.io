@@ -14,6 +14,7 @@
 - Handled backend routes for event’s update/deletion and user management feature.
 - Deployed a production version which uses gzip compression and server-side caching of minified static assets (JS and CSS).  
 
+**Register for a staff account to access all features above.**  
 [GitHub](https://github.com/aaazureee/uow-event) •
 [App](https://uow-event.herokuapp.com)
   
