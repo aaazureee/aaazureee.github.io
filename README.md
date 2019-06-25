@@ -7,7 +7,11 @@
 
 ## Work Experience
 ### SMART Infrastructure Facility, University of Wollongong
-*Summer Research Intern • Jan 2019 - Mar 2019*
+*Summer Research Intern, Jan 2019 - Mar 2019*
+- Implemented a dynamic traffic simulation model using GAMA (a modelling and agent-based simulation platform coded in Java) based on external geospatial data (OpenStreetMap).
+- Applied a neural-network based rerouting strategy for agents to dynamically adapt to local network conditions to find the best traffic route.
+- Developed a functionality which allows user to interactively block and unblock road links to simulate how agents would adapt to changes.
+- Generated data visualization graphs and exported data output in CSV format.
 
 ## Group Projects
 ### Roadside Assistance Application
