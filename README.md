@@ -6,6 +6,13 @@
 </p>  
 
 ## Work Experience
+### Itree
+*Software Engineer, Jan 2020 - Present*
+- Worked in a team responsible for configuring and customising the RegWorks product, a SaaS platform for government agencies across Australia and New Zealand to manage compliance and regulation workflows.
+- Designed and implemented multiple key functionalities, including extracting and parsing data to generate documents in various formats (PDF, DOCX, XML), scheduling job to send emails to the users, writing custom indexables to improve search performance for the system.
+- Utilized GitLab for version control and CI/CD pipeline to deploy the application to cloud environment (AWS).
+- Technology: Java, Angular, SQL, Apache Tomcat, Maven, Elasticsearch, AWS, Jira, Confluence.
+
 ### SMART Infrastructure Facility, University of Wollongong
 *Summer Research Intern, Jan 2019 - Mar 2019*
 - Implemented a dynamic traffic simulation model using GAMA (a modelling and agent-based simulation platform coded in Java) based on external geospatial data (OpenStreetMap).
@@ -14,9 +21,18 @@
 - Generated data visualization graphs and exported data output in CSV format.
 
 ## Group Projects
+### UOW Sculptures Admin Dashboard
+A multi-functional and comprehensive admin dashboard for UOWAC staff to manage data for the UOW Sculptures mobile app. The app was built using [Next.js](https://github.com/vercel/next.js/) (SSR React), [Ant Design](https://github.com/ant-design/ant-design) and [styled-components](https://github.com/styled-components/styled-components) for frontend; Typescript Node.js, PostgreSQL, Auth0 (authentication) and AWS S3 (cloud storage) for backend.   
+- Implemented key functionalities including searching, sorting and pagination for managing users and sculptures data.
+- Designed a customized datepicker solution to view system statistics in a specific time interval.
+- Integrated mapping component for sculptures location using [Mapbox](https://www.mapbox.com/).
+- Used CI/CD for the development and deployment pipeline using [ZEIT Now](https://vercel.com/).
+
+[GitHub](https://github.com/uowac/nextjs-antd-admin) •
+[App](https://dashboard.uowac.now.sh/)
 ### Roadside Assistance Application
 Uber-like application for roadside assistance service, using [React](https://github.com/facebook/create-react-app) with [Material-UI](https://github.com/mui-org/material-ui/) for frontend, and Typescript Node.js ([Nest](https://github.com/nestjs/nest) framework) with [PostgreSQL](https://www.postgresql.org/) for backend.
-- Built the front end user interface with React and Material UI components.
+- Built the frontend user interface with React and Material UI components.
 - Implemented a customized autocomplete dropdown component which renders realtime address suggestions using Google Maps Places API.
 - Integrated data tables with expandable rows and support for pagination, searching and sorting for admin dashboard.
 
@@ -25,7 +41,7 @@ Uber-like application for roadside assistance service, using [React](https://git
 
 ### Event Booking System
 A web application that simulates an event booking system for my university, using Node.js, [Express.js](https://github.com/expressjs/express) and MongoDB. Staff accounts can create and manage events while student accounts are able to view upcoming events, book an event and proceed to checkout.
-- Built the front-end interface using Bootstrap CSS which supports Responsive Design.  
+- Built the frontend interface using Bootstrap CSS which supports Responsive Design.  
 - Wrote test cases for database operations using [MochaJS](https://github.com/mochajs/mocha).  
 - Implemented user authentication and authorization for staff account and student account.  
 - Deployed a production version which uses gzip compression and server-side caching of minified static assets (JS and CSS).  
