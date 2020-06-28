@@ -6,14 +6,14 @@
 </p>  
 
 ## Work Experience
-### Itree
+### Itree (Wollongong, Australia)
 *Software Engineer, Jan 2020 - Present*
 - Worked in a team responsible for configuring and customising the RegWorks product, a SaaS platform for government agencies across Australia and New Zealand to manage compliance and regulation workflows.
 - Maintained, improved and developed new features for the backend system using Java.
 - Utilized GitLab for version control and CI/CD pipeline to deploy the application to cloud environment (AWS).
 - Technology: Java, Angular, SQL, Apache Tomcat, Maven, Elasticsearch, AWS, Jira, Confluence.
 
-### SMART Infrastructure Facility, University of Wollongong
+### SMART Infrastructure Facility (Wollongong, Australia)
 *Summer Research Intern, Jan 2019 - Mar 2019*
 - Implemented a dynamic traffic simulation model using GAMA (a modelling and agent-based simulation platform coded in Java) based on external geospatial data (OpenStreetMap).
 - Applied a neural-network based rerouting strategy for agents to dynamically adapt to local network conditions to find the best traffic route.
