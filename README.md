@@ -9,8 +9,7 @@
 ### Itree
 *Software Engineer, Jan 2020 - Present*
 - Worked in a team responsible for configuring and customising the RegWorks product, a SaaS platform for government agencies across Australia and New Zealand to manage compliance and regulation workflows.
-- Maintained and improved the backend system for New Zealand Department of Conservation project.
-- Designed and implemented multiple key functionalities, including extracting and parsing data to generate documents in various formats (PDF, DOCX, XML), scheduling job to send emails to the users, writing custom indexables to improve search performance for the system.
+- Maintained, improved and developed new features for the backend system using Java.
 - Utilized GitLab for version control and CI/CD pipeline to deploy the application to cloud environment (AWS).
 - Technology: Java, Angular, SQL, Apache Tomcat, Maven, Elasticsearch, AWS, Jira, Confluence.
 
