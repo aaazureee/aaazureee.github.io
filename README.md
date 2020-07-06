@@ -30,7 +30,11 @@ A multi-functional and comprehensive admin dashboard for UOWAC staff to manage d
 - Designed a customized datepicker solution to view system statistics in a specific time interval.
 - Integrated mapping component for sculptures location using [Mapbox](https://www.mapbox.com/).
 - Used CI/CD for the development and deployment pipeline using [ZEIT Now](https://vercel.com/).
-
+  
+**Please use this credential to login:**  
+`Email: uowac-admin@gmail.com`  
+`Password: uowsculptures`  
+  
 [GitHub](https://github.com/uowac/nextjs-antd-admin) •
 [App](https://dashboard.uowac.now.sh/)
 ### Roadside Assistance Application
