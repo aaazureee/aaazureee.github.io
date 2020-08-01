@@ -24,7 +24,7 @@
 ### UOW Sculptures Admin Dashboard
 *Jul 2019 – Nov 2019*  
 
-A multi-functional and comprehensive admin dashboard for UOWAC staff to manage data for the UOW Sculptures mobile app. The app was built using [Next.js](https://github.com/vercel/next.js/) (SSR React), [Ant Design](https://github.com/ant-design/ant-design) and [styled-components](https://github.com/styled-components/styled-components) for frontend; Typescript Node.js, PostgreSQL, Auth0 (authentication) and AWS S3 (cloud storage) for backend.   
+A multi-functional and comprehensive admin dashboard for UOWAC staff to manage data for the UOW Sculptures [mobile app](https://play.google.com/store/apps/details?id=com.UOW.UOWSculptures). The app was built using [Next.js](https://github.com/vercel/next.js/) (SSR React), [Ant Design](https://github.com/ant-design/ant-design) and [styled-components](https://github.com/styled-components/styled-components) for frontend; Typescript Node.js, PostgreSQL, Auth0 (authentication) and AWS S3 (cloud storage) for backend.   
 - Built the front-end interface using Ant Design with support for data visualization components including various forms of charts.  
 - Implemented key functionalities including searching, sorting and pagination for managing users and sculptures data.
 - Designed a customized datepicker solution to view system statistics in a specific time interval.
