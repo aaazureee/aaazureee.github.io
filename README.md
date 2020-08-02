@@ -1,26 +1,11 @@
 <h2 align="center" class="name">Hieu C. Chu</h2>
 <p align="center">
-  chc116@uowmail.edu.au |
+  hieucchu@gmail.com |
   (+61) 416731359 |   
   <a href="https://www.linkedin.com/in/hieucchu/" alt="linked-in">LinkedIn</a> 
 </p>  
 
-## Work Experience
-### Itree (Wollongong, Australia)
-*Software Engineer, Jan 2020 - Present*
-- Worked in a team responsible for configuring and customising the RegWorks product, a SaaS platform for government agencies across Australia and New Zealand to manage compliance and regulation workflows.
-- Maintained, improved and developed new features for the backend system using Java.
-- Utilized GitLab for version control and CI/CD pipeline to deploy the application to cloud environment (AWS).
-- Technology: Java, Angular, SQL, Apache Tomcat, Maven, Elasticsearch, AWS, Jira, Confluence.
-
-### SMART Infrastructure Facility (Wollongong, Australia)
-*Summer Research Intern, Jan 2019 - Mar 2019*
-- Implemented a dynamic traffic simulation model using GAMA (a modelling and agent-based simulation platform coded in Java) based on external geospatial data (OpenStreetMap).
-- Applied a neural-network based rerouting strategy for agents to dynamically adapt to local network conditions to find the best traffic route.
-- Developed a functionality which allows user to interactively block and unblock road links to simulate how agents would adapt to changes.
-- Generated data visualization graphs and exported data output in CSV format.
-
-## Group Projects
+## Projects
 ### UOW Sculptures Admin Dashboard
 *Jul 2019 – Nov 2019*  
 
@@ -61,20 +46,22 @@ A web application that simulates an event booking system for my university, usin
 [GitHub](https://github.com/aaazureee/uow-event) •
 [App](https://uow-event.herokuapp.com)
   
-## Personal Projects
 ### URL Shortener Microservice
+*Mar 2018*
 Enter your URL and get a shortened link that redirects to original page (use MongoDB to store randomly generated links). Functionally similar to [Google URL Shortener](https://goo.gl).  
 
 [GitHub](https://github.com/aaazureee/url-shortener) •
 [App](https://link-sh.herokuapp.com)
 
 ### Github Popular
+*Jan 2018*
 Single Page App that compares GitHub stats and show popular repos on GitHub (language based) using React and React Router.  
 
 [GitHub](https://github.com/aaazureee/gh-battle-popular) •
 [App](https://gh-battle-popular.firebaseapp.com)
 
 ### Local Weather App
+*Sep 2017*
 A simple web app that shows the weather based on your current location using [DarkSky Weather API](https://darksky.net/dev).
 
 [GitHub](https://github.com/aaazureee/local-weather) •
