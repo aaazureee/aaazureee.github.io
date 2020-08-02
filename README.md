@@ -47,21 +47,21 @@ A web application that simulates an event booking system for my university, usin
 [App](https://uow-event.herokuapp.com)
   
 ### URL Shortener Microservice
-*Mar 2018*
+*Mar 2018*  
 Enter your URL and get a shortened link that redirects to original page (use MongoDB to store randomly generated links). Functionally similar to [Google URL Shortener](https://goo.gl).  
 
 [GitHub](https://github.com/aaazureee/url-shortener) •
 [App](https://link-sh.herokuapp.com)
 
 ### Github Popular
-*Jan 2018*
+*Jan 2018*  
 Single Page App that compares GitHub stats and show popular repos on GitHub (language based) using React and React Router.  
 
 [GitHub](https://github.com/aaazureee/gh-battle-popular) •
 [App](https://gh-battle-popular.firebaseapp.com)
 
 ### Local Weather App
-*Sep 2017*
+*Sep 2017*  
 A simple web app that shows the weather based on your current location using [DarkSky Weather API](https://darksky.net/dev).
 
 [GitHub](https://github.com/aaazureee/local-weather) •
