@@ -6,6 +6,17 @@
 </p>  
 
 ## Projects
+### React Ecommerce
+*Jun 2020 - Jul 2020*  
+
+A mobile-responsive ecommerce app built using Typescript React, Redux, Firebase and styling done via Sass. Support Email/Password + Google Sign-In, checkout securely via Stripe.
+
+- Built the front-end interface using React, Redux (redux-thunk, reselect) and Sass (mobile-responsive).
+- Integrated notifications using [react-toastify](https://github.com/fkhadra/react-toastify) for better user experience.
+- Handled Stripe payment in the back-end using Express.js.  
+
+[GitHub](https://github.com/aaazureee/react-ecommerce) •
+[App](https://react-ecommerce-2105.herokuapp.com/)
 ### UOW Sculptures Admin Dashboard
 *Jul 2019 – Nov 2019*  
 
