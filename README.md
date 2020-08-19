@@ -11,7 +11,7 @@
 
 A mobile-responsive ecommerce app built using Typescript React, Redux, Firebase and styling done via Sass. Support Email/Password + Google Sign-In. Add items to shopping cart and checkout securely via Stripe.
 
-- Built the front-end interface using React, Redux (redux-thunk, reselect) and Sass (mobile-responsive).
+- Built the front-end interface using Typescript React, Redux (redux-thunk, reselect) and Sass (mobile-responsive).
 - Integrated notifications using [react-toastify](https://github.com/fkhadra/react-toastify) for better user experience.
 - Handled Stripe payment in the back-end using Express.js.  
 
